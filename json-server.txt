@@ -1,0 +1,13 @@
+
+
+
+json-server --watch db.json --port 3000
+
+command
+
+deploy github,
+
+how to create and deploy server.
+
+https://chrisdevcode.hashnode.dev/how-to-create-and-deploy-a-json-server
+
